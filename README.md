@@ -14,8 +14,8 @@ Currently, I am expanding my technical knowledge through courses, personal and t
 
 - ☕ Java
 - 🌐 SpringBoot | JavaScript | Node.js 
-- 🧾 mySQL | MongoDB
-- 🔧 Git | Obsidian | Trello | Discord | Figma | Sketch 
+- 💾 mySQL | MongoDB
+- ⚙ Git | Obsidian | Trello | Discord | Figma | Sketch 
 
 ## ⚛ Stats
 
