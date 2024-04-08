@@ -19,9 +19,9 @@ Currently, I am expanding my technical knowledge through courses, personal and t
 
 ## ⚛ Status
 
-[![Simona's GitHub stats](https://github-readme-status.vercel.app/api?username=SimonaLabib&hide=["stars"]&show_icons=true)](https://github-readme-stats.vercel.app/api?username=SimonaLabib&theme=onedark&rank_icon=github)
+https://github-readme-stats.vercel.app/api?username=SimonaLabib&theme=onedark&rank_icon=github
 
-[![Simona's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaLabib&theme=buefy&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaLabib&layout=donut-vertical&theme=onedark)
+https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaLabib&layout=donut-vertical&theme=onedark
 
 ## 🤝 Contact me
 
